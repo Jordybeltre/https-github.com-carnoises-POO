@@ -1,0 +1,15 @@
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\bin\Debug\netcoreapp3.1\ControlDeventas.exe
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\bin\Debug\netcoreapp3.1\ControlDeventas.deps.json
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\bin\Debug\netcoreapp3.1\ControlDeventas.runtimeconfig.json
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\bin\Debug\netcoreapp3.1\ControlDeventas.runtimeconfig.dev.json
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\bin\Debug\netcoreapp3.1\ControlDeventas.dll
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\bin\Debug\netcoreapp3.1\ControlDeventas.pdb
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\obj\Debug\netcoreapp3.1\ControlDeventas.csproj.AssemblyReference.cache
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\obj\Debug\netcoreapp3.1\ControlDeventas.frmVentas.resources
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\obj\Debug\netcoreapp3.1\ControlDeventas.csproj.GenerateResource.cache
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\obj\Debug\netcoreapp3.1\ControlDeventas.AssemblyInfoInputs.cache
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\obj\Debug\netcoreapp3.1\ControlDeventas.AssemblyInfo.cs
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\obj\Debug\netcoreapp3.1\ControlDeventas.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\obj\Debug\netcoreapp3.1\ControlDeventas.dll
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\obj\Debug\netcoreapp3.1\ControlDeventas.pdb
+C:\Users\Carlos Tejada\source\repos\POO\ControlDeventas\ControlDeventas\obj\Debug\netcoreapp3.1\ControlDeventas.genruntimeconfig.cache
